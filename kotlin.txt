@@ -1,7 +1,0 @@
-
-git add .
-git commit -m "Añadido datos"
-git push github master
-
-
-
